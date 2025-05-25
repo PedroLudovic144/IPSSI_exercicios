@@ -1,1 +1,1 @@
-# IPSSI_exercicios
+# Pedro Ludovic e Paulo Renan
